@@ -1,0 +1,23 @@
+{
+  "name": "press_start",
+  "version": "1.0.0",
+  "description": "An image uploader bot for twitter",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "press",
+    "start",
+    "image",
+    "bot",
+    "title",
+    "screen"
+  ],
+  "author": "Julio Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
